@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Tip</string>
+    <string name="input_hint">Biaya Pelayanan.</string>
+    <string name="service_question">Bagaimana pelayanan?</string>
+    <string name="amazing_20">Luar Biasa (20%)</string>
+    <string name="good_18">Bagus (18%)</string>
+    <string name="ok_15">OK (15%)</string>
+    <string name="round_up_tip">Round up tip?</string>
+    <string name="calculate_btn_text">Hitungkan</string>
+    <string name="tip_amount">Jumlah Tip: %s</string>
+</resources>
